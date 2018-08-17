@@ -1,3 +1,8 @@
+##This is a practice repo
+
+naa lng sa inyo kung kupyahon ninyo ang code nako dinhi!
+wala koi labot!
+
 ## Getting started
 * `npm i`
 
